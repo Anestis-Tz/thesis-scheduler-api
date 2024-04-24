@@ -480,9 +480,6 @@ bin
 
 *.db
 
-appsettings.json
-.editorconfig
-
 # Ignore directories (and their contents)
 obj/
 bin/
